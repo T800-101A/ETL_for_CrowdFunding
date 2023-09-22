@@ -9,9 +9,6 @@ We will work building an ETL pipeline using Python, Pandas, and either Python di
 # Step to follow in this project: 
 
 
-https://static.bc-edx.com/data/dl-1-2/m13/lms/img/campaign_DataFrame.png
-
-
   - A Category DataFrame is Created 
 
   - A Subcategory DataFrame is Created 
